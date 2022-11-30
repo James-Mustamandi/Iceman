@@ -1,0 +1,62 @@
+﻿  Actor.cpp
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\Actor.cpp(380,61): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  StudentWorld.cpp
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(185,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(203,38): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(249,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(261,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(270,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(285,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(323,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(400,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(409,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(418,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(427,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(436,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(446,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(455,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(586,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(755,23): warning C4244: 'return': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(763,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(799,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(826,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(842,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(869,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(926,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(941,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(967,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(998,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1012,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1025,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1038,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1052,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1062,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1086,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1111,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1185,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1187,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1301,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1323,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1361,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1363,21): warning C4018: '<': signed/unsigned mismatch
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  Generating Code...
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(820): warning C4715: 'StudentWorld::BoulderFalling': not all control paths return a value
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(903): warning C4715: 'StudentWorld::isNextSpaceEmpty': not all control paths return a value
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1009): warning C4715: 'StudentWorld::BoulderisNotLeftofIceman': not all control paths return a value
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1022): warning C4715: 'StudentWorld::BoulderisNotRightofIceman': not all control paths return a value
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1035): warning C4715: 'StudentWorld::BoulderisNotAboveIceman': not all control paths return a value
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1048): warning C4715: 'StudentWorld::BoulderisNotBelowIceman': not all control paths return a value
+C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\IceMan\StudentWorld.cpp(1443): warning C4715: 'StudentWorld::ForkInPath': not all control paths return a value
+  IceMan.vcxproj -> C:\Users\james\Desktop\Old CS30 Projects\IceMan-skeleton-windows\IceMan\Debug\IceMan.exe
